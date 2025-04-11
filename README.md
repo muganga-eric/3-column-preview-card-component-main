@@ -28,7 +28,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-![this shows my developed page](../frontend_memntor/3-column-preview-card-component-main/screenshot/Capture.PNG)
+![this shows my developed page](screenshot/Capture.PNG)
 
 ### Links
 
